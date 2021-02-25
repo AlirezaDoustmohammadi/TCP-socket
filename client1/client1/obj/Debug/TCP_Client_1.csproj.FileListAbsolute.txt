@@ -1,0 +1,21 @@
+C:\Users\Inspiron 1545\Desktop\9. TCP\client1\client1\bin\Debug\client1.exe.config
+C:\Users\Inspiron 1545\Desktop\9. TCP\client1\client1\obj\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP\client1\client1\obj\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP\client1\client1\bin\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP\client1\client1\bin\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP\client1\client1\obj\Debug\client1.TCP_Client_1.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP\client1\client1\obj\Debug\client1.Properties.Resources.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP\client1\client1\obj\Debug\TCP_Client_1.csproj.GenerateResource.Cache
+C:\Users\Inspiron 1545\Desktop\9. TCP\client1\client1\obj\Debug\TCP_Client_1.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\client1\client1\bin\Debug\client1.exe.config
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\client1\client1\obj\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\client1\client1\obj\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\client1\client1\bin\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\client1\client1\bin\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\client1\client1\obj\Debug\TCP_Client_1.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\client1\client1\obj\Debug\client1.TCP_Client_1.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\client1\client1\obj\Debug\client1.Properties.Resources.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\client1\client1\obj\Debug\TCP_Client_1.csproj.GenerateResource.Cache
+C:\Users\Inspiron 1545\Desktop\Final TCP Software\client1\client1\bin\Debug\client1.exe.config
+C:\Users\Inspiron 1545\Desktop\Final TCP Software\client1\client1\obj\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\Final TCP Software\client1\client1\obj\Debug\client1.pdb

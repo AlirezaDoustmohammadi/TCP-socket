@@ -1,0 +1,39 @@
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\bin\Debug\client1.exe.config
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\bin\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\bin\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.TCP_Client.resources
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.Properties.Resources.resources
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\TCP_Client.csproj.GenerateResource.Cache
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.pdb
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client1\client1\bin\Debug\client1.exe.config
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client1\client1\obj\Debug\client1.exe
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client1\client1\obj\Debug\client1.pdb
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client1\client1\bin\Debug\client1.exe
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client1\client1\bin\Debug\client1.pdb
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client1\client1\obj\Debug\client1.TCP_Client.resources
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client1\client1\obj\Debug\client1.Properties.Resources.resources
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client1\client1\obj\Debug\TCP_Client.csproj.GenerateResource.Cache
+F:\دروس ترم 961\فاز سوم امتحانات\شبکه\تمرینات\1\9. TCP\client1\client1\bin\Debug\client1.exe.config
+F:\دروس ترم 961\فاز سوم امتحانات\شبکه\تمرینات\1\9. TCP\client1\client1\obj\Debug\client1.exe
+F:\دروس ترم 961\فاز سوم امتحانات\شبکه\تمرینات\1\9. TCP\client1\client1\obj\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\client1\client1\bin\Debug\client1.exe.config
+C:\Users\Inspiron 1545\Desktop\client1\client1\obj\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\client1\client1\obj\Debug\client1.pdb
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client2\client1\bin\Debug\client1.exe.config
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client2\client1\obj\Debug\client1.exe
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client2\client1\obj\Debug\client1.pdb
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client2\client1\bin\Debug\client1.exe
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client2\client1\bin\Debug\client1.pdb
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client2\client1\obj\Debug\client1.TCP_Client.resources
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client2\client1\obj\Debug\client1.Properties.Resources.resources
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\client2\client1\obj\Debug\TCP_Client.csproj.GenerateResource.Cache
+C:\Users\Inspiron 1545\Desktop\9. TCP\client2\client1\bin\Debug\client1.exe.config
+C:\Users\Inspiron 1545\Desktop\9. TCP\client2\client1\obj\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP\client2\client1\obj\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP\client2\client1\bin\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP\client2\client1\bin\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP\client2\client1\obj\Debug\client1.TCP_Client.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP\client2\client1\obj\Debug\client1.Properties.Resources.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP\client2\client1\obj\Debug\TCP_Client.csproj.GenerateResource.Cache
+C:\Users\Inspiron 1545\Desktop\9. TCP\client2\client1\obj\Debug\TCP_Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\Tamrin9\Tamrin9\bin\Debug\Tamrin9.exe.config
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\Tamrin9\Tamrin9\bin\Debug\Tamrin9.exe
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\Tamrin9\Tamrin9\bin\Debug\Tamrin9.pdb
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\Tamrin9\Tamrin9\obj\Debug\Tamrin9.csprojResolveAssemblyReference.cache
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\Tamrin9\Tamrin9\obj\Debug\Tamrin9.Form1.resources
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\Tamrin9\Tamrin9\obj\Debug\Tamrin9.Properties.Resources.resources
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\Tamrin9\Tamrin9\obj\Debug\Tamrin9.csproj.GenerateResource.Cache
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\Tamrin9\Tamrin9\obj\Debug\Tamrin9.exe
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\Tamrin9\Tamrin9\obj\Debug\Tamrin9.pdb
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe.config
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.exe
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.pdb
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\bin\Debug\Tamrin9.pdb
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.Form1.resources
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.Properties.Resources.resources
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.csproj.GenerateResource.Cache
+F:\TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe.config
+F:\TCP\Server\Tamrin9\obj\Debug\Tamrin9.exe
+F:\TCP\Server\Tamrin9\obj\Debug\Tamrin9.pdb
+F:\TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe
+F:\TCP\Server\Tamrin9\bin\Debug\Tamrin9.pdb
+F:\TCP\Server\Tamrin9\obj\Debug\Tamrin9.csprojResolveAssemblyReference.cache
+F:\TCP\Server\Tamrin9\obj\Debug\Tamrin9.Form1.resources
+F:\TCP\Server\Tamrin9\obj\Debug\Tamrin9.Properties.Resources.resources
+F:\TCP\Server\Tamrin9\obj\Debug\Tamrin9.csproj.GenerateResource.Cache

@@ -1,0 +1,38 @@
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe.config
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\bin\Debug\Tamrin9.pdb
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.TCP_Server.resources
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.Properties.Resources.resources
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\TCP_Server.csproj.GenerateResource.Cache
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.exe
+C:\Users\Inspiron 1545\Desktop\TCP\Server\Tamrin9\obj\Debug\Tamrin9.pdb
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe.config
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.exe
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.pdb
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\bin\Debug\Tamrin9.pdb
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\obj\Debug\TCP_Server.csprojResolveAssemblyReference.cache
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.TCP_Server.resources
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.Properties.Resources.resources
+F:\دروس ترم 961\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\obj\Debug\TCP_Server.csproj.GenerateResource.Cache
+F:\دروس ترم 961\فاز سوم امتحانات\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe.config
+F:\دروس ترم 961\فاز سوم امتحانات\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.exe
+F:\دروس ترم 961\فاز سوم امتحانات\شبکه\تمرینات\1\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe.config
+C:\Users\Inspiron 1545\Desktop\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP\Server\Tamrin9\bin\Debug\Tamrin9.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP\Server\Tamrin9\bin\Debug\Tamrin9.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP\Server\Tamrin9\obj\Debug\TCP_Server.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron 1545\Desktop\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.TCP_Server.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP\Server\Tamrin9\obj\Debug\Tamrin9.Properties.Resources.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP\Server\Tamrin9\obj\Debug\TCP_Server.csproj.GenerateResource.Cache
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\Server\Tamrin9\bin\Debug\Tamrin9.exe.config
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\Server\Tamrin9\obj\Debug\Tamrin9.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\Server\Tamrin9\obj\Debug\Tamrin9.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\Server\Tamrin9\bin\Debug\Tamrin9.exe
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\Server\Tamrin9\bin\Debug\Tamrin9.pdb
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\Server\Tamrin9\obj\Debug\TCP_Server.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\Server\Tamrin9\obj\Debug\Tamrin9.TCP_Server.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\Server\Tamrin9\obj\Debug\Tamrin9.Properties.Resources.resources
+C:\Users\Inspiron 1545\Desktop\9. TCP_Final\Server\Tamrin9\obj\Debug\TCP_Server.csproj.GenerateResource.Cache

@@ -1,0 +1,30 @@
+c:\users\inspiron 1545\documents\visual studio 2012\Projects\client1\client1\bin\Debug\client1.exe.config
+C:\Users\Inspiron 1545\Documents\Visual Studio 2012\Projects\client1\client1\bin\Debug\client1.exe
+C:\Users\Inspiron 1545\Documents\Visual Studio 2012\Projects\client1\client1\bin\Debug\client1.pdb
+C:\Users\Inspiron 1545\Documents\Visual Studio 2012\Projects\client1\client1\obj\Debug\client1.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron 1545\Documents\Visual Studio 2012\Projects\client1\client1\obj\Debug\client1.Form1.resources
+C:\Users\Inspiron 1545\Documents\Visual Studio 2012\Projects\client1\client1\obj\Debug\client1.Properties.Resources.resources
+C:\Users\Inspiron 1545\Documents\Visual Studio 2012\Projects\client1\client1\obj\Debug\client1.csproj.GenerateResource.Cache
+C:\Users\Inspiron 1545\Documents\Visual Studio 2012\Projects\client1\client1\obj\Debug\client1.exe
+C:\Users\Inspiron 1545\Documents\Visual Studio 2012\Projects\client1\client1\obj\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\bin\Debug\client1.exe.config
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.pdb
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.csprojResolveAssemblyReference.cache
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.Form1.resources
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.Properties.Resources.resources
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\obj\Debug\client1.csproj.GenerateResource.Cache
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\bin\Debug\client1.exe
+C:\Users\Inspiron 1545\Desktop\TCP\client1\client1\bin\Debug\client1.pdb
+F:\TCP\client1\client1\bin\Debug\client1.exe.config
+F:\TCP\client1\client1\obj\Debug\client1.exe
+F:\TCP\client1\client1\obj\Debug\client1.pdb
+F:\TCP\client1\client1\obj\Debug\client1.csprojResolveAssemblyReference.cache
+F:\TCP\client1\client1\obj\Debug\client1.Form1.resources
+F:\TCP\client1\client1\obj\Debug\client1.Properties.Resources.resources
+F:\TCP\client1\client1\obj\Debug\client1.csproj.GenerateResource.Cache
+F:\TCP\client1\client1\bin\Debug\client1.exe
+F:\TCP\client1\client1\bin\Debug\client1.pdb
+F:\دروس ترم 961\شبکه\تمرینات\جواب\TCP\client1\client1\bin\Debug\client1.exe.config
+F:\دروس ترم 961\شبکه\تمرینات\جواب\TCP\client1\client1\obj\Debug\client1.exe
+F:\دروس ترم 961\شبکه\تمرینات\جواب\TCP\client1\client1\obj\Debug\client1.pdb
